@@ -18,3 +18,6 @@
 
 
 https://yandex.ru
+
+
+https://yandex.ru/mya
