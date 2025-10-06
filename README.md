@@ -10,7 +10,7 @@
   
   
   
-  https://www.pythn.org/downl/
+  https://www.python.org/downl/
   
   
   
@@ -29,6 +29,6 @@ accumulate
 stel
 swip
 speell
-chec
+check
 
 calculatin
