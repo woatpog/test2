@@ -26,9 +26,9 @@ https://yandex.ru/mya
 
 
 accumulate
-stel
-swip
-speell
-chec
+steel
+swap
+spell
+check
 
-calculatin
+calculating
