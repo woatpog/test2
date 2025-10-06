@@ -21,3 +21,14 @@ https://yandex.ru
 
 
 https://yandex.ru/mya
+
+
+
+
+accumulate
+stel
+swip
+speell
+chec
+
+calculatin
